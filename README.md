@@ -94,4 +94,3 @@ cd /etc/dhcp/; ln -s /opt/custom/dhcp/dhcpd.conf ./
 
 ### USSD CODES
 gammu --getussd *124*#
-# rpi-cam
